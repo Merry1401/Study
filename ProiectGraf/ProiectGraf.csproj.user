@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="delete_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forgotpass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="graf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="password_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="teoriegraf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
